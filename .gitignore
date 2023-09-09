@@ -12,5 +12,8 @@ vm-other-Redox-0.7.conf
 vm-windows-10_86x_64x.conf
 vm-windows-11_86x_64x.conf
 vm-windows-cloud-windows-ru-10_x86_64.conf
+vm-freebsd-FreeBSD-img-aarch64-13.2.conf
+vm-windows-7_86x_64x.conf
+vm-freebsd-fio.conf
 
 
